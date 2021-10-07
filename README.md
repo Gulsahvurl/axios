@@ -1,6 +1,6 @@
 # axios
 
-[![npm version](https://img.shields.io/npm/v/axios.svg?style=flat-square)](https://www.npmjs.org/package/axios)
+[![npm version](https://img.shields.io/npm/v/axios.svg?style=flat-square)]
 [![CDNJS](https://img.shields.io/cdnjs/v/axios.svg?style=flat-square)](https://cdnjs.com/libraries/axios)
 ![Build status](https://github.com/axios/axios/actions/workflows/ci.yml/badge.svg)
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/axios/axios) 
